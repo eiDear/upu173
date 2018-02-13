@@ -15,6 +15,7 @@ U谱是一款专为尤克里里学习与演奏设计的一款手机APP，分享�
 源码框架下载地址:https://github.com/zhaoqp2010/andbase3x
 
 已上架产品 《U谱》 完全使用andbase3x 开发实现 下载地址 www.upu173.com  欢迎咨询和试用
+![13](https://github.com/zhaoqp2010/upu173/blob/master/%E6%88%AA%E5%9B%BE/13.jpg?raw=true) 
 
 #后台管理   
 
@@ -40,4 +41,6 @@ U谱是一款专为尤克里里学习与演奏设计的一款手机APP，分享�
 ![7](https://github.com/zhaoqp2010/upu173/blob/master/%E6%88%AA%E5%9B%BE/7.jpg?raw=true)  
 ![8](https://github.com/zhaoqp2010/upu173/blob/master/%E6%88%AA%E5%9B%BE/8.jpg?raw=true)  
 ![9](https://github.com/zhaoqp2010/upu173/blob/master/%E6%88%AA%E5%9B%BE/9.jpg?raw=true)
-![10](https://github.com/zhaoqp2010/upu173/blob/master/%E6%88%AA%E5%9B%BE/10.jpg?raw=true)     
+![10](https://github.com/zhaoqp2010/upu173/blob/master/%E6%88%AA%E5%9B%BE/10.jpg?raw=true)  
+![11](https://github.com/zhaoqp2010/upu173/blob/master/%E6%88%AA%E5%9B%BE/11.jpg?raw=true)  
+![12](https://github.com/zhaoqp2010/upu173/blob/master/%E6%88%AA%E5%9B%BE/12.jpg?raw=true)         
