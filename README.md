@@ -1,5 +1,5 @@
 ![1](https://github.com/zhaoqp2010/upu173/blob/master/%E6%88%AA%E5%9B%BE/logo.png?raw=true)
-# upu173
+# upu173 《U谱》
 
 包含Android客户端，IOS客户端，以及JAVA后台框架源码，提供技术框架，需要的请联系：QQ：396196516
 
