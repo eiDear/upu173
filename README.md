@@ -1,7 +1,7 @@
 ![1](https://github.com/zhaoqp2010/upu173/blob/master/%E6%88%AA%E5%9B%BE/logo.png?raw=true)
 # upu173
 
-包含Android客户端，IOS客户端，以及JAVA后台框架源码
+包含Android客户端，IOS客户端，以及JAVA后台框架源码，提供技术框架，需要的请联系：QQ：396196516
 
 ![1](https://github.com/zhaoqp2010/upu173/blob/master/%E6%88%AA%E5%9B%BE/1.png?raw=true)
 ![2](https://github.com/zhaoqp2010/upu173/blob/master/%E6%88%AA%E5%9B%BE/2.png?raw=true)
